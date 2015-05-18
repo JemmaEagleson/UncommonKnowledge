@@ -1,0 +1,115 @@
+ body   {
+        
+        font-family: 'Helvetica Neue', sans-serif;
+        font-style: normal;
+        font-weight: 200px;
+        background: #9B9B9B;         
+        color: #ffffff;
+        padding-left: 135px;
+        padding-right: 135px;
+        }
+
+h1      {  
+        font-family: 'Helvetica Neue', sans-serif;
+        font-size: 110px;
+        text-transform: uppercase;
+        letter-spacing: 4px;
+        color: #ffffff;
+        text-shadow: 0ps 2px 3px #555;
+        padding: px 40px 30px 70px
+        }
+
+h2      {
+        font-family: 'Helvetica Neue', sans-serif;
+        font-size: 30px;
+        padding-bottom: 20px;
+        font-weight: 100;
+        text-transform: lowercase;
+        letter-spacing: 4px;
+        transform-origin: left;
+        color: #ffffff;
+        padding-bottom: 20px;
+        padding-top: 20px;
+            
+        }
+        
+h1, h2, h3 {
+            font-weight: normal;
+            text-align: center;
+            margin: 10px 0;
+            }
+       h3 {
+            color: #f95257;
+            font-family: 'Helvetica Neue', sans-serif;
+            font-size: 20px;
+            letter-spacing: 4px;
+            text-transform: uppercase;
+            padding-top: 20px;
+            padding-bottom: 15px;
+        
+           text-align: left
+            }
+
+   
+    p {
+            font-size: 19px;
+            text-align: justify;
+        
+    
+        
+
+    .Subtitle{
+            font-style: italic
+            }
+  
+        a {
+        color: #ffffff;
+        text-decoration: none;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        
+        }
+    
+    a:hover {
+        text-decoration: none;
+        color: #f95257;        
+        }
+        
+     nav ul {
+         text-align: center;
+         list-style-type: none
+        }
+        
+        nav ul li {
+            display: inline-block;
+            margin: 10px;
+          
+        }
+        nav {
+            border-top: 1px solid #ccc;
+            border-bottom: 1px solid #ccc;
+    
+        }
+    
+       section {
+           padding-bottom: 40px
+       }
+       
+        img {
+            display: block;
+            margin: auto;
+            margin-left: auto;
+            margin-right: auto;
+            
+        }
+            
+
+
+    section {
+        text-align: center;
+        font-size: 18px;
+        text-transform: uppercase
+    }
+
+footer {border-top: 1px solid #ccc;
+            border-bottom: 1px solid #ccc;
