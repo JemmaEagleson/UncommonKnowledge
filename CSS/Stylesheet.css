@@ -3,7 +3,7 @@
         font-family: 'Helvetica Neue', sans-serif;
         font-style: normal;
         font-weight: 200px;
-        background: #9B9B9B;         
+        background: #929292;         
         color: #ffffff;
         padding-left: 135px;
         padding-right: 135px;
@@ -72,7 +72,7 @@ h1, h2, h3 {
     
     a:hover {
         text-decoration: none;
-        color: #f95257;        
+        color: #ffffff;        
         }
         
      nav ul {
